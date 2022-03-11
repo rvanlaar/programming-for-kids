@@ -7,7 +7,7 @@ class Rect:
 
   # Check if a point is contained in
   # the rect.
-  # See if the x is bettween left
+  # See if the x is between left
   # most and right of the rect, and
   # if y is between top and bottom.
   def contains(self, x, y):
